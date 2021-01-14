@@ -11,3 +11,4 @@
 <br>&ensp;&ensp;&ensp;-Filter variable
 
 <h3> 1- PYTHON MODULES </h3>
+It is the section where the required libraries are loaded and run for viewing metadata, extracting data value from metadata, filtering and improving the data obtained from metadata, and displaying the results.
