@@ -10,4 +10,4 @@
 <br>&ensp;&ensp;&ensp;-Plot variable
 <br>&ensp;&ensp;&ensp;-Filter variable
 
-<b><font face="Arial" size="16" color="blue"> 1- PYTHON MODULES </font><br /></b>
+<h3> 1- PYTHON MODULES </h3>
