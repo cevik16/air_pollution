@@ -5,7 +5,7 @@
 <br>The exercise is divided in the following sections:
 <br>1.Load Python modules
 <br>2.Explore Sentinel-5p using xarray
-&ensp;&ensp;-Access Groups
-&ensp;&ensp;-Access variable
-&ensp;&ensp;-Plot variable
-&ensp;&ensp;-Geographical subset 
+<br>&ensp;&ensp;-Access Groups
+<br>&ensp;&ensp;-Access variable
+<br>&ensp;&ensp;-Plot variable
+<br>&ensp;&ensp;-Geographical subset 
