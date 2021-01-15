@@ -5,7 +5,7 @@
 
 In this study, a comparison of air pollution between the years was made by comparing the 2019 and 2020 images of France. Analysis carried out based on Sentinel-5 products, delivered to users as a netCDF files, to map NO2 concentration over our study area in France.
 
-<br>The exercise is divided in the following sections:
+The exercise is divided in the following sections:
 <br>&ensp;1.&ensp;Python Modules
 <br>&ensp;2.&ensp;Explore Sentinel-5p Data
 <br>&ensp;&ensp;&ensp;-Access Groups
