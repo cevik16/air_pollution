@@ -19,6 +19,7 @@ It is the section where the required libraries are loaded and run for viewing me
 <i>(Used libraries: numpy, xarray, cartopy, termcolor, matplotlib)</i>
 
 <h3> 2- EXPLORE SENTINEL-5P DATA </h3>
+<h4> 2.1- Access Groups </h3>
 With in netCDF files, different groups are used to organise the data and make it easier to find what you are looking for. Two groups: PRODUCT and METADATA, both of them contain sub-groups.
 
 <br><b>PRODUCT</b>: The variables in this group will answer the questions what, when, where and how well.
