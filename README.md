@@ -37,6 +37,4 @@ In this study, xarray library was used to perform basic and advanced analysis. X
 The most important question is where can we find the actual NO2 measurement? When check the Sentinel-5p Level 2 NO2 product User Manuel, it will be learned. This information can be found in the <i>'nitrogendioxied_tropospheric_column'</i> variable inside the PRODUCT group. So, we can make use of the key properties available. In this section, group products metadata is shown and the relevant NO2 data can be seen easily.
 
 <h4> 2.3- Plot Variable </h3>
-In the next step, the unit used to represent the measure was converted from <b><i>"mol/m2"</i></b> to <b><i>"molecules/cm2"</i></b> using the <b><i>"multiplication_factor_to_convert_to_molecules_percm2"</i></b> attribute in the PRODUCT group.
-
-<i><b>(( Tip:</b> The quantities in Sentinel 5 precursor files are given in SI units. For an integrated column value this means that the unit is mol/m2. Traditionally, the unit for an integrated column is molecules/cm2.))</i>
+In the next step, the unit used to represent the measure was converted from <b><i>"mol/m2"</i></b> to <b><i>"molecules/cm2"</i></b> using the <b><i>"multiplication_factor_to_convert_to_molecules_percm2"</i></b> attribute in the PRODUCT group. <i><b>Tip:</b> The quantities in Sentinel 5 precursor files are given in SI units. For an integrated column value this means that the unit is mol/m2. Traditionally, the unit for an integrated column is molecules/cm2.))</i>
