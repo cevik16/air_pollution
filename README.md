@@ -47,4 +47,5 @@ With the overview of the data completed, our processing started using the qualit
 
 These aspects are taken into account in the definition of the <i>"quality assurance value (qa_value)"</i>, available for each individual observation, which provides the users with an easy filter to remove less accurate observations. The <i>"qa_value"</i> is a continuous variable, ranging from 0(error) to 1(well). <b><i>In this study, 0.75 was used as the filtering value.</i></b>
 
+In addition, a data quality map was drawn in order to ensure that the general evaluation of the data was made correctly. After the image filtering was completed, the result comparison images were obtained.
 
