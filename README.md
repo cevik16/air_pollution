@@ -45,4 +45,6 @@ In the next step, the unit used to represent the measure was converted from <b><
 
 With the overview of the data completed, our processing started using the quality flag included on the Sentinel-5p Level 2 product. The quality of the individual observations depends on many factors, <u>including cloud cover</u>, <u>surface albedo</u>; <u>presence of snow-ice</u>, <u>saturation</u>, <u>geometry</u> etc. 
 
+These aspects are taken into account in the definition of the <i>"quality assurance value (qa_value)"</i>, available for each individual observation, which provides the users with an easy filter to remove less accurate observations. The <i>"qa_value"</i> is a continuous variable, ranging from 0(error) to 1(well).
+
 
