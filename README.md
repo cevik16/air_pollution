@@ -27,6 +27,6 @@ With in netCDF files, different groups are used to organise the data and make it
 In this study, xarray library was used to perform basic and advanced analysis. Xarray introduces labels in the form of dimensions, coordinates and attributes on top of raw NumPy-like array, which allows for a more intuitive, more concise, and less error-prone developer experience.
 
 <b>In the Access Groups section was carried out with these parts:</b>
-<br>&ensp;&ensp;&ensp;&ensp;Access the Global Attributes
-<br>&ensp;&ensp;&ensp;&ensp;Access the METADATA group
-<br>&ensp;&ensp;&ensp;&ensp;Access the METADATA group
+<br>&ensp;- Access the Global Attributes
+<br>&ensp;- Access the METADATA group
+<br>&ensp;- Access the METADATA group
