@@ -3,8 +3,7 @@
 
 &ensp;&ensp; Governments and decisin-makers rely heavily on satellite data and computer models to show how pollution accumulates and how it is carried in the air so that they can develop appropriate mitigation strategies.One of the missions, known as a Sentinel-5p, provides timely data on a multitude of trace gases(CO, NO2, S02, O3, aerosols, etc.)
 
-In this study, a comparison of air pollution between the years was made by comparing the 2019 and 2020 images of France. Analysed did based on Sentinel-5 products, delivered to users as a netCDF files, to map NO2 concentration over our study area in France.
-
+In this study, a comparison of air pollution between the years was made by comparing the 2019 and 2020 images of France. Analysis carried out based on Sentinel-5 products, delivered to users as a netCDF files, to map NO2 concentration over our study area in France.
 
 <br>The exercise is divided in the following sections:
 <br>&ensp;1.&ensp;Python Modules
