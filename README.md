@@ -8,10 +8,10 @@ In this study, a comparison of air pollution between the years was made by compa
 The exercise is divided in the following sections:
 <br>&ensp;1.&ensp;Python Modules
 <br>&ensp;2.&ensp;Explore Sentinel-5p Data
-<br>&ensp;&ensp;&ensp;-Access Groups
-<br>&ensp;&ensp;&ensp;-Access variable
-<br>&ensp;&ensp;&ensp;-Plot variable
-<br>&ensp;&ensp;&ensp;-Filter variable
+<br>&ensp;&ensp;&ensp;2.1 Access Groups
+<br>&ensp;&ensp;&ensp;2.2 Access variable
+<br>&ensp;&ensp;&ensp;2.3 Plot variable
+<br>&ensp;&ensp;&ensp;2.4 Filter variable
 
 <h3> 1- PYTHON MODULES </h3>
 It is the section where the required libraries are loaded and run for viewing metadata, extracting data value from metadata, filtering and improving the data obtained from metadata, and displaying the results.
