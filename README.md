@@ -34,4 +34,4 @@ In this study, xarray library was used to perform basic and advanced analysis. X
 <br>&ensp;- Access the METADATA group
 
 <h4> 2.2- Access Variable </h3>
-The most important question is where can we find the actual NO2 measurement? When check the Sentinel-5p Level 2 NO2 product User Manuel, it will be learned. This information can be found in the <i>'nitrogendioxied_tropospheric_column'</i> variable inside the PRODUCT group. The data will be open as a xarray.DataArray object, so we can make use of the key properties available.
+The most important question is where can we find the actual NO2 measurement? When check the Sentinel-5p Level 2 NO2 product User Manuel, it will be learned. This information can be found in the <i>'nitrogendioxied_tropospheric_column'</i> variable inside the PRODUCT group. So, we can make use of the key properties available. In this section, group products metadata is shown and the relevant NO2 data can be seen easily.
