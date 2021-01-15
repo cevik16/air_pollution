@@ -15,3 +15,6 @@ The exercise is divided in the following sections:
 
 <h3> 1- PYTHON MODULES </h3>
 It is the section where the required libraries are loaded and run for viewing metadata, extracting data value from metadata, filtering and improving the data obtained from metadata, and displaying the results.
+
+<i>numpy, xarray, cartopy, termcolor, matplotlib </i> kütüphaneleri kullanılmıştır.
+
