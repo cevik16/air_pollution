@@ -49,3 +49,5 @@ These aspects are taken into account in the definition of the <i>"quality assura
 
 In addition, a data quality map was drawn in order to ensure that the general evaluation of the data was made correctly. After the image filtering was completed, the result comparison images were obtained.
 
+![Result](Outputs/Comparing_results.png)
+
