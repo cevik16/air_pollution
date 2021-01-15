@@ -22,6 +22,5 @@ It is the section where the required libraries are loaded and run for viewing me
 With in netCDF files, different groups are used to organise the data and make it easier to find what you are looking for. Two groups: PRODUCT and METADATA, both of them contain sub-groups.
 
 <br><b>PRODUCT</b>: The variables in this group will answer the questions what, when, where and how well.
-
 <br><b>METADATA</b>: This is a group to collect metadata items, such as the items that appear in the header file and items. The metadata is stored as attributes, while grouping attributes that belong to a specific standart will be done by using sub-groups.
 
